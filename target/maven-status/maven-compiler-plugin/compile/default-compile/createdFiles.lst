@@ -1,0 +1,7 @@
+TestCases\TC_LoginTest001.class
+PageObjects\LoginPageObject.class
+TestCases\TC_DATLoginTest.class
+TestCases\BaseClass.class
+Utils\XLUtils.class
+Utils\ReadConfigPropertyFile.class
+Utils\Reporting.class
